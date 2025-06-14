@@ -78,18 +78,14 @@ Here are some of the projects I'm most proud of. You can find more on my reposit
 | Project Name | Description | Tech Stack | Links |
 |--------------|-------------|------------|-------|
 | **BSE Simulator** | An interactive simulation of the Bristol Stock Exchange to analyze algorithmic trading strategies. | `Python`, `Streamlit`, `Pandas` | [🔗 Repo](https://github.com/pandeakshat/bse-simulator) |
-| **Customer Analytics App** | A Streamlit dashboard for churn prediction, sentiment analysis, and customer segmentation. | `Python`, `Scikit-learn`, `NLTK`, `Tableau`| [🔗 Repo](LINK_TO_YOUR_REPO) |
-| **Consolidated NFT Marketplace** | A Web3 platform for NFT trading with built-in carbon footprint tracking and analytics. | `Solidity`, `Web3.js`, `SQL` | [🔗 Repo](LINK_TO_YOUR_REPO) |
+| **Customer Analytics App** | A Streamlit dashboard for churn prediction, sentiment analysis, and customer segmentation. | `Python`, `Scikit-learn`, `NLTK`, `Tableau`| [🔗 Repo](https://github.com/pandeakshat/customer-analysis) |
+| **Consolidated NFT Marketplace** | A Web3 platform for NFT trading with built-in carbon footprint tracking and analytics. | `Solidity`, `Web3.js`, `SQL` | [🔗 Repo](https://github.com/pandeakshat/nft-marketplace) |
 
 ---
 
 ### ✍️ Guides & Community Resources
 
 I believe in learning in public and sharing knowledge. Here are some guides and resources I've created to help the community.
-
-- 📝 **[Guide] Getting Started with Streamlit for Data Science** - A beginner-friendly tutorial on building your first interactive web app. `(Coming Soon!)`
-- ⛓️ **[Resource] Awesome Blockchain for Data Scientists** - A curated list of tools, papers, and datasets for analyzing blockchain data. `(Link to a new repo you will create for this)`
-- ☁️ **[Guide] Deploying a Simple ML Model with FastAPI and AWS** - A step-by-step walkthrough. `(Coming Soon!)`
 
 ---
 
