@@ -8,7 +8,7 @@
   </h1>
   
   <p>
-    <b>Data Scientist | ML Engineer | FinTech & Blockchain Innovator</b>
+    <b>Data Scientist&nbsp;|&nbsp;ML Engineer&nbsp;|&nbsp;FinTech & Blockchain Innovator</b>
   </p>
 
   <a href="https://pandeakshat.com/" target="_blank">
@@ -25,44 +25,65 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-I'm a Data Science professional based in Noida, India, with a passion for building data-driven solutions that solve real-world problems. With a Master's in **Financial Technology with Data Science** from the University of Bristol, my core interest lies at the intersection of machine learning, finance, and blockchain technology. I believe in the power of data to create more efficient, transparent, and equitable systems.
+I'm a **Data Scientist and FinTech engineer** from Noida, India, focused on building **data-driven, production-ready solutions** that merge **machine learning, finance, and blockchain**.  
+With an MSc in *Financial Technology with Data Science* from the University of Bristol, I enjoy transforming analytical insights into scalable tools and intelligent dashboards.
 
-- 🔭 I’m currently working on **developing end-to-end machine learning pipelines and interactive data applications.**
-- 🌱 I’m constantly learning about **MLOps, distributed computing, and advanced NLP techniques.**
-- 👯 I’m looking to collaborate on **climate-tech data science projects or building tools for IP rights on the blockchain.**
-- 💬 Ask me about **Python, Predictive Modeling, Streamlit, or the carbon footprint of crypto.**
-- ⚡ Fun fact: I enjoy writing poetry and exploring new cuisines!
-
----
-
-### 🚀 My Skills & Tools
-
-Here are some of the technologies I work with:
-
-<p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
-  <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>
-  
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-  
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
-  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
+- 🔭 Currently building: **automated analytics pipelines**, **data-quality scoring systems**, and **interactive BI dashboards**  
+- 🧠 Exploring: **MLOps**, **large-scale data engineering**, **transformer-based NLP**, and **DeFi analytics**  
+- 💡 I like working where **data meets decision science and product impact**  
+- ⚡ Fun fact: when not coding, I write poetry and explore experimental cuisines
 
 ---
 
-### 📊 My GitHub Stats
+### ⚙️ Technical Stack
+
+#### 🧩 Core Languages & Frameworks
+`Python` • `SQL` • `Solidity` • `JavaScript`
+
+#### 📊 Data Science & Machine Learning
+`NumPy` • `Pandas` • `Scikit-Learn` • `TensorFlow` • `NLTK` • `StatsModels`
+
+#### 🖥️ Data Engineering & MLOps
+`Airflow` • `Docker` • `AWS S3` • `PostgreSQL` • `MongoDB`
+
+#### 📈 Business Intelligence & Apps
+`Power BI` • `Tableau` • `Streamlit` • `Excel Automation`
+
+#### 🧱 Blockchain & Web3
+`Solidity` • `Ethers.js` • `Web3.js` • `IPFS` • `Smart Contract Analytics`
+
+---
+
+### 🧭 Portfolio Projects
+
+| Project | Description | Tech Stack | Links |
+|----------|--------------|------------|-------|
+| **Sales Dashboard** | Interactive BI dashboard providing real-time insights into sales and profitability. | `Python` · `Tableau` · `Power BI` | [🔗 Repo](https://github.com/pandeakshat/sales-dashboard) |
+| **Customer Intelligence** | Unified analytics system for predicting, segmenting, and improving customer behavior. | `Python` · `Scikit-Learn` · `Streamlit` | [🔗 Repo](https://github.com/pandeakshat/customer-intelligence) |
+| **Data Intelligence** | Automated dataset validation and readiness scoring engine for AI & ML workflows. | `Python` · `Pandas` · `FastAPI` | [🔗 Repo](https://github.com/pandeakshat/data-intelligence) |
+| **BSE Simulator** | Academic simulator replicating Bristol Stock Exchange for algorithmic-trading analysis. | `Python` · `Streamlit` | [🔗 Repo](https://github.com/pandeakshat/bse-simulator) |
+| **Project Flow** | Lightweight workflow orchestration system for analytics & automation projects. | `Python` · `SQLAlchemy` | [🔗 Repo](https://github.com/pandeakshat/project-flow) |
+| **Insight Hub** *(Coming Soon)* | Centralized platform integrating dashboards, data-audits, and reporting APIs. | `Python` · `Next.js` · `Streamlit` | 🔧 In Progress |
+
+---
+
+### 💼 Service Projects (Ready-to-Deploy)
+
+These are modular, freelance-oriented tools designed for businesses & startups.  
+Each can be customized and deployed quickly for clients on **Upwork / Fiverr / Contra**.
+
+| Service Project | What It Does | Tech Stack |
+|-----------------|---------------|------------|
+| **Data Audit & Reporting** | Automated dataset validation, summary reports & data-quality scoring. | `Python` · `Pandas` · `OpenPyXL` |
+| **Customer Analytics Suite** | Ready-to-use dashboard with churn & sentiment modules. | `Streamlit` · `Scikit-Learn` · `Tableau` |
+| **Sales Performance Insights** | Self-service BI dashboard for performance and revenue metrics. | `Power BI` · `Excel` · `Python` |
+| **ML Model Deployment Boilerplate** | Containerized base for deploying ML APIs with monitoring hooks. | `FastAPI` · `Docker` · `AWS` |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pandeakshat&show_icons=true&theme=radical&rank_icon=github" alt="pandeakshat's GitHub stats" />
@@ -71,26 +92,20 @@ Here are some of the technologies I work with:
 
 ---
 
-### 💡 My Featured Projects
+### 🧩 Guides & Community
 
-Here are some of the projects I'm most proud of. You can find more on my repositories page!
+I often share code templates, learning notebooks, and technical notes on:
+- **Data reliability & auditing workflows**  
+- **Financial ML & quant analytics**  
+- **Blockchain analytics & on-chain data science**
 
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| **BSE Simulator** | An interactive simulation of the Bristol Stock Exchange to analyze algorithmic trading strategies. | `Python`, `Streamlit`, `Pandas` | [🔗 Repo](https://github.com/pandeakshat/bse-simulator) |
-| **Customer Analytics App** | A Streamlit dashboard for churn prediction, sentiment analysis, and customer segmentation. | `Python`, `Scikit-learn`, `NLTK`, `Tableau`| [🔗 Repo](https://github.com/pandeakshat/customer-analysis) |
-| **Consolidated NFT Marketplace** | A Web3 platform for NFT trading with built-in carbon footprint tracking and analytics. | `Solidity`, `Web3.js`, `SQL` | [🔗 Repo](https://github.com/pandeakshat/nft-marketplace) |
-
----
-
-### ✍️ Guides & Community Resources
-
-I believe in learning in public and sharing knowledge. Here are some guides and resources I've created to help the community.
+Follow my repositories or connect via [LinkedIn](https://www.linkedin.com/in/pandeakshat/) for updates.
 
 ---
 
 <div align="center">
   <p>
-    Thanks for visiting my profile! Let's connect and build something amazing together.
+    🚀 Thanks for visiting!  
+    <br/>Let’s collaborate on open-source analytics & intelligent data systems.
   </p>
 </div>
